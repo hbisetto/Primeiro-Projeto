@@ -7,3 +7,5 @@ Saiba mais no link: [link fictício
 Nova atualização. Teste!
 
 Nova atualização. Teste2!
+
+Nota atualização para teste de comando.
