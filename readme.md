@@ -4,7 +4,7 @@ Este é um repositório teste para aprender como o git funciona.
 
 #Teste
 
-Saiba mais no link: [link fictício
+Saiba mais no link:
 
 <h>Teste em HTML </h>
 <p>Teste de parágrafo</p>
