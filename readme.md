@@ -1,9 +1,14 @@
 # Git course
 
-Este é um repositório teste para ensinar como o git funciona.
+Este é um repositório teste para aprender como o git funciona.
+
+#Teste
 
 Saiba mais no link: [link fictício
 
+<h>Teste em HTML </h>
+<p>Teste de parágrafo</p>
+<hr>
 Nova atualização. Teste!
 
 Nova atualização. Teste2!
